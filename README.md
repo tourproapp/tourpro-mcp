@@ -1,5 +1,7 @@
 # TourPro MCP server
 
+[![mcptry](https://mcptry.com/badge/app.tourpro/mcp)](https://mcptry.com/servers/app.tourpro/mcp)
+
 TourPro's public MCP server: tour management tools for AI clients over
 [Streamable HTTP](https://modelcontextprotocol.io) at `https://mcp.tourpro.app/mcp`.
 
