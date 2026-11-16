@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.tourpro/mcp",
+  "title": "TourPro",
+  "description": "Tour management for tour managers, production teams, and touring crews. Free for teams up to 5.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.tourpro.app/docs/integrations/claude",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.tourpro.app/mcp"
+    }
+  ]
+}
